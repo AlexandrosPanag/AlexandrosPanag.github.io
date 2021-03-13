@@ -26,7 +26,7 @@
 - [My C programs!](https://github.com/AlexandrosPanag/My-C-Projects)
 - [My HTML Projects!](https://github.com/AlexandrosPanag/HTML-Start)
 - [My MIPS Assembly Projects!](https://github.com/AlexandrosPanag/My-MIPS-Assembly-Projects)
-- [My Java Projects!](https://github.com/users/AlexandrosPanag/projects/1)
+- [My Java Projects!](https://github.com/AlexandrosPanag/My-Java-Projects)
 - [My C++ Projects!](https://github.com/users/AlexandrosPanag/projects/6)
 - [My SQL Projects! (coming soon...)]()
 <!-- BLOG-POST-LIST:END -->
