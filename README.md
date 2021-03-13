@@ -2,7 +2,7 @@
 
 ## 🎓 Student at University of Ioannina Department of computer Inforormatics and Telecommunications.
 
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ♟️"𝓐𝓵𝓮𝓪 𝓲𝓪𝓬𝓽𝓪 𝓮𝓼𝓽"
 
 
 
