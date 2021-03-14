@@ -22,7 +22,7 @@
 ### 📚 My Projects
 
 <!-- BLOG-POST-LIST:START -->
-- [My Codewars Projects!](https://github.com/AlexandrosPanag/C-Project-Codewars)
+- [My Kata-Codewars Projects!](https://github.com/AlexandrosPanag/C-Project-Codewars)
 - [My C programs!](https://github.com/AlexandrosPanag/My-C-Projects)
 - [My HTML Projects!](https://github.com/AlexandrosPanag/HTML-Start)
 - [My MIPS Assembly Projects!](https://github.com/AlexandrosPanag/My-MIPS-Assembly-Projects)
