@@ -1,10 +1,4 @@
-#landing-wrapper {
-    display:table;
-    width:100%;
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('landingpagepic.jpg');
-    background-position:center top;
-    height:350px;
-}
+
 
 ### Hello, friend  👋
 
