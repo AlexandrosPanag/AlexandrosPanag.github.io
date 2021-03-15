@@ -1,5 +1,7 @@
 ### Hello, friend  👋
 
+---
+
 ## 🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.
 
 - ♟️"𝓐𝓵𝓮𝓪 𝓲𝓪𝓬𝓽𝓪 𝓮𝓼𝓽"
