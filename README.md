@@ -27,6 +27,7 @@
 - [My Kata-Codewars Projects!](https://github.com/AlexandrosPanag/C-Project-Codewars)
 - [My C Projects!](https://github.com/AlexandrosPanag/My-C-Projects)
 - [My HTML Projects!](https://github.com/AlexandrosPanag/HTML-Start)
+- [My OpenMP with C Projects!](https://github.com/AlexandrosPanag/OpenMP-with-C)
 - [My MIPS Assembly Projects!](https://github.com/AlexandrosPanag/My-MIPS-Assembly-Projects)
 - [My Java Projects!](https://github.com/AlexandrosPanag/My-Java-Projects)
 - [My C++ Projects!](https://github.com/users/AlexandrosPanag/projects/6)
