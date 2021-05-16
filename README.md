@@ -8,7 +8,7 @@
 
 
 
-
+<br />
 
 ---
 ### 💡 My skills:
@@ -20,7 +20,7 @@
 <img align="left" alt="JAVA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
 
 
-
+<br />
 
 ---
 ## My media:
