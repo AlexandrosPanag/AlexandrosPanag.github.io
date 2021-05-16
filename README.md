@@ -8,12 +8,18 @@
 - ♟️"𝓐𝓵𝓮𝓪 𝓲𝓪𝓬𝓽𝓪 𝓮𝓼𝓽"
 
 
+## 💡 My skills:
+[<img align="left" alt="CPLUSPLUS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />][C++]
+[<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />][C]
+[<img align="left" alt="ARDUINO" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" />][ARDUINO]
+[<img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />][HTML5]
+[<img align="left" alt="JAVA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][JAVA]
 
 ### My media:
 
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="GITHUB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
+
+
 
 <br />
 
@@ -39,5 +45,4 @@
 
 
 [github]:https://github.com/AlexandrosPanag
-[facebook]: https://www.facebook.com/AlexandrosPanag/
-[instagram]: https://www.instagram.com/alex.panag/
+
