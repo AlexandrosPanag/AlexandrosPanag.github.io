@@ -30,7 +30,7 @@
 - [My OpenMP with C Projects!](https://github.com/AlexandrosPanag/OpenMP-with-C)
 - [My MIPS Assembly Projects!](https://github.com/AlexandrosPanag/My-MIPS-Assembly-Projects)
 - [My Java Projects!](https://github.com/AlexandrosPanag/My-Java-Projects)
-- [My C++ Projects!](https://github.com/users/AlexandrosPanag/projects/6)
+- [My C++ Projects!](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
 - [My SQL Projects! (coming soon...)]()
 <!-- BLOG-POST-LIST:END -->
 
