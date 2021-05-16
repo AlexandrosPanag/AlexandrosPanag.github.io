@@ -10,23 +10,22 @@
 - ♟️"𝓐𝓵𝓮𝓪 𝓲𝓪𝓬𝓽𝓪 𝓮𝓼𝓽"
 ---
 
-<br />
+
 ---
 ### 💡 My skills:
----
+
 <img align="left" alt="CPLUSPLUS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
 <img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />
 <img align="left" alt="ARDUINO" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" />
 <img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
 <img align="left" alt="JAVA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
 
----
 
 
-<br />
----
+
+
 ## My media:
----
+
 [<img align="left" alt="GITHUB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
 
 
@@ -34,7 +33,7 @@
 <br />
 
 
----
+
 
 ### 📚 My Projects
 
