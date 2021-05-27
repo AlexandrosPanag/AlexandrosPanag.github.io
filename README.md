@@ -51,7 +51,7 @@
 - [My MIPS Assembly Projects!](https://github.com/AlexandrosPanag/My-MIPS-Assembly-Projects)
 - [My Java Projects!](https://github.com/AlexandrosPanag/My-Java-Projects)
 - [My C++ Projects!](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
-- [My Arduino Projects!](https://github.com/AlexandrosPanag/My_Arduino_UNO_R3_ATmega328P)
+- [My Arduino Projects!](https://github.com/AlexandrosPanag/My_Arduino_UNO_R3_ATmega328P_Projects)
 - [My SQL Projects! (coming soon...)]()
 <!-- BLOG-POST-LIST:END -->
 
