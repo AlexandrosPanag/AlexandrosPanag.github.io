@@ -6,6 +6,8 @@
 ## 🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.
 <img align="left" alt="GITHUB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 
 <br />
