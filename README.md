@@ -6,7 +6,7 @@
 ## 🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.
 <img align="left" alt="GITHUB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 
-[![My GitHub Stats](]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandrospanag&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515]()
 [![My GitHub Language Stats]()]()
 
 
