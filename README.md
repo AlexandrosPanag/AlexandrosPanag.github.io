@@ -1,5 +1,5 @@
 
-### Hello, friend and welcome to my page!👋
+### Hello friend, welcome to my page!👋
 
 ---
 
