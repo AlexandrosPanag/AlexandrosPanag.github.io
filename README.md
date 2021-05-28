@@ -1,6 +1,8 @@
 
 ### Hello friend, welcome to my page!👋
 
+![](https://th.bing.com/th/id/OIP.pXTU3YsjnLVefAFEoMEwDwHaFj?pid=ImgDet&rs=1)
+
 ---
 
 ## 🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.
