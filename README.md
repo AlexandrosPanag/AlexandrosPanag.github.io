@@ -1,7 +1,7 @@
 
 ### Hello friend, welcome to my page!👋
 
-![](https://th.bing.com/th/id/OIP.OI7ZpSi6-Eb-v7z1k4rWwgHaEK?pid=ImgDet&rs=1)
+![](https://th.bing.com/th/id/OIP.OI7ZpSi6-Eb-v7z1k4rWwgHaEK?pid=ImgDet&rs=1)![](https://th.bing.com/th/id/OIP.OI7ZpSi6-Eb-v7z1k4rWwgHaEK?pid=ImgDet&rs=1)
 
 ---
 
