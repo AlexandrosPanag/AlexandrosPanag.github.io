@@ -44,6 +44,7 @@
 ### 📚 My Projects
 
 <!-- BLOG-POST-LIST:START -->
+- [⏩My Arduino Videos!](https://www.youtube.com/channel/UCDx0FOsFIXT_cS27CZ3vAuA)
 - [My MSP430F5529 Projects!](https://github.com/AlexandrosPanag/Ti-launch-pad-with-MSP430-MCU)
 - [My Kata-Codewars Projects!](https://github.com/AlexandrosPanag/C-Project-Codewars)
 - [My C Projects!](https://github.com/AlexandrosPanag/My-C-Projects)
