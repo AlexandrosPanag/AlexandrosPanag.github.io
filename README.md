@@ -6,7 +6,7 @@ Hello friend, welcome to my page!👋
 
 ---
 
-### 🎓 Student at `University of Ioannina - Department of computer Inforormatics and Telecommunications.`
+### 🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.
 <img align="left" alt="GITHUB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 
 
