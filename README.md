@@ -1,11 +1,12 @@
-
-### Hello friend, welcome to my page!👋
+```
+Hello friend, welcome to my page!👋
+```
 
 ![](https://th.bing.com/th/id/Rca6e0904b3829cdf18a4e06f38b3a7cc?rik=pwrKKiDMgrXj3g&pid=ImgRaw)
 
 ---
 
-### 🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.
+### 🎓 Student at `University of Ioannina - Department of computer Inforormatics and Telecommunications.`
 <img align="left" alt="GITHUB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 
 
