@@ -6,9 +6,9 @@ Hello friend, welcome to my page!👋
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
 ----
 
-```
-🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.
-```
+
+##🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.
+
 
 
 
@@ -31,7 +31,7 @@ Hello friend, welcome to my page!👋
 
 
 ---
-### 💡 My skills:
+## 💡 My skills:
 <img align="left" alt="CPLUSPLUS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
 <img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />
 <img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />
