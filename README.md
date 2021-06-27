@@ -3,14 +3,14 @@
 
 
 [![1](https://raw.githubusercontent.com/AlexandrosPanag/AlexandrosPanag.github.io/main/Banner.png)](https://github.com/AlexandrosPanag?tab=repositories)
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
 
 
 
 ---
 <h3 align="center">🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.</h3>
 
-<img align="left" alt="GITHUB" width="120" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /> 
+<img align="left" alt="GITHUB" width="40x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexandrosPanag01&label=Profile%20views&color=129e00&style=plastic" alt="AlexandrosPanag" /> </p>
 ---
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexandrospanag&count_private=true&theme=cobalt&showicons=true)]()
@@ -32,8 +32,8 @@
 ---
 ## _⏩ My media:_
 
-<img align="left" alt="GITHUB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
-<img align="left" alt="YOUTUBE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
+<img align="left" alt="GITHUB" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+<img align="left" alt="YOUTUBE" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 
 
 
