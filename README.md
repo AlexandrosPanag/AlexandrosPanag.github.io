@@ -5,7 +5,6 @@
 
 
 ---
-## 🎓 _Student at University of Ioannina - Department of computer Inforormatics and Telecommunications._
 
 <h3 align="center">🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.</h3>
 
@@ -23,7 +22,7 @@
 
 
 ---
-##_💡 My skills:_
+## _💡 My skills:_
 <img align="left" alt="CPLUSPLUS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
 <img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />
 <img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />
