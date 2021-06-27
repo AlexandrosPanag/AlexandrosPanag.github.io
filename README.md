@@ -24,7 +24,7 @@
 <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />
 <img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
-<img align="left" alt="JAVA" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" /> 
+<img align="left" alt="JAVA" width="40px" src="<img src=https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/> /> 
 <img align="left" alt="ARDUINO" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" />
 <img align="left" alt="MARKDOWN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/markdown.svg" />
 
