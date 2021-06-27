@@ -6,13 +6,6 @@
 
 ---
 
-## 
-
-<h3 align="center">🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.</h3>
-
-
-
-
 
 <img align="left" alt="GITHUB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexandrosPanag01&label=Profile%20views&color=129e00&style=plastic" alt="AlexandrosPanag" /> </p>
@@ -21,7 +14,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrospanag&langs_count=5&theme=dark)]()
 
 
-
+<h3 align="center">🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.</h3>
 
 ---
 ## _💡 My skills:_
