@@ -7,7 +7,7 @@ Hello friend, welcome to my page!👋
 
 
 ---
-## 🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.
+## 🎓 _Student at University of Ioannina - Department of computer Inforormatics and Telecommunications._
 
 
 
@@ -25,7 +25,7 @@ Hello friend, welcome to my page!👋
 
 
 ---
-## 💡 My skills:
+##_💡 My skills:_
 <img align="left" alt="CPLUSPLUS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
 <img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />
 <img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />
@@ -37,7 +37,7 @@ Hello friend, welcome to my page!👋
 <br />
 
 ---
-## ⏩ My media:
+## _⏩ My media:_
 
 <img align="left" alt="GITHUB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 <img align="left" alt="YOUTUBE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
@@ -49,7 +49,7 @@ Hello friend, welcome to my page!👋
 
 
 ---
-## 📚 My Projects
+## _📚 My Projects_
 
 <!-- BLOG-POST-LIST:START -->
 - [⏩My Arduino Videos!](https://www.youtube.com/channel/UCDx0FOsFIXT_cS27CZ3vAuA)
