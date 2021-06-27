@@ -1,6 +1,7 @@
 ```
 Hello friend, welcome to my page!👋
 ```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexandrosPanag01&label=Profile%20views&color=129e00&style=plastic" alt="AlexandrosPanag" /> </p>
 
 ![](https://th.bing.com/th/id/Rca6e0904b3829cdf18a4e06f38b3a7cc?rik=pwrKKiDMgrXj3g&pid=ImgRaw)
 
