@@ -2,7 +2,7 @@
 Hello friend, welcome to my page!👋
 ```
 
-![](https://th.bing.com/th/id/Rca6e0904b3829cdf18a4e06f38b3a7cc?rik=pwrKKiDMgrXj3g&pid=ImgRaw)
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/vaporwave-aesthetics-future-funk-l2R09a5L5Bb6ppV7y/fullscreen">
 
 ---
 
