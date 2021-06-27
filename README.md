@@ -1,7 +1,7 @@
 ```Hello friend, welcome to my page!👋```
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
 
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
 ---
