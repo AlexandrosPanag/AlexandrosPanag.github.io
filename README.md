@@ -18,12 +18,13 @@
 
 
 ---
+
 ## _💡 My skills:_
 <img align="left" alt="CPLUSPLUS" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
 <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />
 <img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
-<img align="left" alt="JAVA" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
+<img align="left" alt="JAVA" width="40px" src="https://icons8.com/icon/13679/java" /> 
 <img align="left" alt="ARDUINO" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" />
 <img align="left" alt="MARKDOWN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/markdown.svg" />
 
