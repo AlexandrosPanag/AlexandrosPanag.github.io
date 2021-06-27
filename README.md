@@ -3,8 +3,7 @@
 
 
 [![1](https://raw.githubusercontent.com/AlexandrosPanag/AlexandrosPanag.github.io/main/Banner.png)](https://github.com/AlexandrosPanag?tab=repositories)
-
-<img src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
 ---
 <h3 align="center">🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.</h3>
 
