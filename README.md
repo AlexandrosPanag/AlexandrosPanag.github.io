@@ -2,6 +2,11 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
+
+<!--<h3 align="center">
+![image](https://raw.githubusercontent.com/AlexandrosPanag/AlexandrosPanag.github.io/main/Banner.png)
+</h3> -->
+
 ---
 <h3 align="center">🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.</h3>
 
