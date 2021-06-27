@@ -4,6 +4,8 @@ Hello friend, welcome to my page!👋
 
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
+
+
 ---
 ## 🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.
 
