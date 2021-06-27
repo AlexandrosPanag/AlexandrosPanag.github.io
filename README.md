@@ -1,7 +1,6 @@
 ```
 Hello friend, welcome to my page!👋
 ```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexandrosPanag01&label=Profile%20views&color=129e00&style=plastic" alt="AlexandrosPanag" /> </p>
 
 ![](https://th.bing.com/th/id/Rca6e0904b3829cdf18a4e06f38b3a7cc?rik=pwrKKiDMgrXj3g&pid=ImgRaw)
 
@@ -12,6 +11,7 @@ Hello friend, welcome to my page!👋
 
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexandrosPanag01&label=Profile%20views&color=129e00&style=plastic" alt="AlexandrosPanag" /> </p>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexandrospanag&count_private=true&theme=dark&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrospanag&langs_count=5&theme=dark)]()
 ---
