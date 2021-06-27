@@ -1,6 +1,4 @@
-```
-Hello friend, welcome to my page!👋
-```
+```Hello friend, welcome to my page!👋```
 
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
@@ -9,7 +7,7 @@ Hello friend, welcome to my page!👋
 ---
 ## 🎓 _Student at University of Ioannina - Department of computer Inforormatics and Telecommunications._
 
-
+<h3 align="center">🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.</h3>
 
 
 
