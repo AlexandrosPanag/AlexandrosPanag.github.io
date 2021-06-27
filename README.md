@@ -4,9 +4,11 @@ Hello friend, welcome to my page!👋
 
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
----
+----
 
+```
 ## 🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.
+```
 
 
 
@@ -18,12 +20,12 @@ Hello friend, welcome to my page!👋
 
 
 
---
+
 <img align="left" alt="GITHUB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexandrosPanag01&label=Profile%20views&color=129e00&style=plastic" alt="AlexandrosPanag" /> </p>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexandrospanag&count_private=true&theme=dark&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrospanag&langs_count=5&theme=dark)]()
---
+
 
 
 
