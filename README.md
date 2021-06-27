@@ -6,7 +6,7 @@ Hello friend, welcome to my page!👋
 
 ---
 
-### 🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.
+## 🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.
 <img align="left" alt="GITHUB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 
 
@@ -30,7 +30,7 @@ Hello friend, welcome to my page!👋
 <br />
 
 ---
-### ⏩ My media:
+## ⏩ My media:
 
 <img align="left" alt="GITHUB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 <img align="left" alt="YOUTUBE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
@@ -42,7 +42,7 @@ Hello friend, welcome to my page!👋
 
 
 ---
-### 📚 My Projects
+# 📚 My Projects
 
 <!-- BLOG-POST-LIST:START -->
 - [⏩My Arduino Videos!](https://www.youtube.com/channel/UCDx0FOsFIXT_cS27CZ3vAuA)
