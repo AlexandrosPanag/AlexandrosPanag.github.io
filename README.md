@@ -8,7 +8,8 @@ Hello friend, welcome to my page!👋
 ## 🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.
 
 
-
+---
+## 💡 My skills:
 
 
 
