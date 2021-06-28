@@ -22,7 +22,7 @@
 ## _💡 My skills:_
 <img align="left" alt="CPLUSPLUS" width="40px" src="https://th.bing.com/th/id/OIP.m-FI7R8sTvB7s_K5vLd7igHaDX?pid=ImgDet&rs=1" />
 <img align="left" alt="C" width="40px" src="https://th.bing.com/th/id/R88eef2c4956cf1d9ffbb00a2059d9dd6?rik=5ZFdZ5LrTEaavw&pid=ImgRaw" />
-<img align="left" alt="SQL" width="40px" src="https://cdn.onlinewebfonts.com/svg/img_54095.png" />
+<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="HTML5" width="40px" src="https://th.bing.com/th/id/R5eccdfd92ed880c8e9b6b90c8dc60919?rik=4r9MWpe8qBXt1g&pid=ImgRaw" />
 <img align="left" alt="JAVA" width="40px" src="https://th.bing.com/th/id/OIP.cR9lTZZuKdpXY5nMjYc6ngHaMg?pid=ImgDet&rs=1" /> 
 <img align="left" alt="ARDUINO" width="40px" src="https://th.bing.com/th/id/OIP.kudi1RWT2QjTBcDNC86DWAHaHa?pid=ImgDet&rs=1" />
