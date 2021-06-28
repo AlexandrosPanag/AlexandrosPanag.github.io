@@ -27,7 +27,7 @@
 <img align="left" alt="JAVA" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> 
 <img align="left" alt="ARDUINO" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" alt="MARKDOWN" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
-<img align="left" alt="CPLUSPLUS" width="40px" src="https://img.favpng.com/20/1/6/the-c-programming-language-c-for-beginners-masters-computer-programming-png-favpng-YaqSCU5ptCxmb0vaVX6qt3swh.jpg" />
+
 
 <br />
 
