@@ -20,13 +20,13 @@
 ---
 
 ## _💡 My skills:_
-<img align="left" alt="CPLUSPLUS" width="20px" src="https://logodix.com/logo/1137946.png" />
-<img align="left" alt="C" width="20px" src="https://logodix.com/logo/498876.png" />
-<img align="left" alt="SQL" width="20px" src="https://logodix.com/logo/542147.png" />
-<img align="left" alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="JAVA" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> 
-<img align="left" alt="ARDUINO" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" alt="MARKDOWN" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
+<img align="left" alt="CPLUSPLUS" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
+<img align="left" alt="C" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />
+<img align="left" alt="SQL" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg" />
+<img align="left" alt="HTML5" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
+<img align="left" alt="JAVA" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" /> 
+<img align="left" alt="ARDUINO" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" />
+<img align="left" alt="MARKDOWN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/markdown.svg" />
 
 
 <br />
