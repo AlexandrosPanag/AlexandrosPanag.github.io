@@ -26,7 +26,6 @@
 <img align="left" alt="HTML5" width="40px" src="https://th.bing.com/th/id/R5eccdfd92ed880c8e9b6b90c8dc60919?rik=4r9MWpe8qBXt1g&pid=ImgRaw" />
 <img align="left" alt="JAVA" width="40px" src="https://th.bing.com/th/id/OIP.cR9lTZZuKdpXY5nMjYc6ngHaMg?pid=ImgDet&rs=1" /> 
 <img align="left" alt="ARDUINO" width="40px" src="https://th.bing.com/th/id/OIP.kudi1RWT2QjTBcDNC86DWAHaHa?pid=ImgDet&rs=1" />
-<img align="left" alt="VHDL" width="40px" src="https://th.bing.com/th/id/R09dc8d5385176d8cc7f0dd5503794590?rik=tdWd5w18Q21ujw&riu=http%3a%2f%2flh3.googleusercontent.com%2f5V0ytDPiW7qiK-Mat-vjR0y9_9pT9v2HcawFy3i4jBJHi67SdMTbz-Yq3-c2FPGKBAk%3dw300&ehk=EcMkgkO35j4o2Ff2G2iuVJqdFUVeloREusbpKVyCmpM%3d&risl=&pid=ImgRaw" />
 <img align="left" alt="MARKDOWN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/markdown.svg" />
 
 <br />
