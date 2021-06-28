@@ -22,10 +22,11 @@
 ## _💡 My skills:_
 <img align="left" alt="CPLUSPLUS" width="40px" src="https://th.bing.com/th/id/OIP.m-FI7R8sTvB7s_K5vLd7igHaDX?pid=ImgDet&rs=1" />
 <img align="left" alt="C" width="40px" src="https://th.bing.com/th/id/R88eef2c4956cf1d9ffbb00a2059d9dd6?rik=5ZFdZ5LrTEaavw&pid=ImgRaw" />
-<img align="left" alt="SQL" width="40px" src="https://th.bing.com/th/id/R3ad7d4623b8bb182f4cccb51917577d1?rik=MJb6gaeaFsBbvg&riu=http%3a%2f%2fblog.desafiolatam.com%2fwp-content%2fuploads%2f2018%2f05%2fsql-logo.png&ehk=EsCGbvsX527BJ0ibETnigyOPOgKlFEpowIJV8A%2f2P8M%3d&risl=&pid=ImgRaw" />
+<img align="left" alt="SQL" width="40px" src="https://cdn.onlinewebfonts.com/svg/img_54095.png" />
 <img align="left" alt="HTML5" width="40px" src="https://th.bing.com/th/id/R5eccdfd92ed880c8e9b6b90c8dc60919?rik=4r9MWpe8qBXt1g&pid=ImgRaw" />
-<img align="left" alt="JAVA" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" /> 
-<img align="left" alt="ARDUINO" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" />
+<img align="left" alt="JAVA" width="40px" src="https://th.bing.com/th/id/OIP.cR9lTZZuKdpXY5nMjYc6ngHaMg?pid=ImgDet&rs=1" /> 
+<img align="left" alt="ARDUINO" width="40px" src="https://th.bing.com/th/id/OIP.kudi1RWT2QjTBcDNC86DWAHaHa?pid=ImgDet&rs=1" />
+<img align="left" alt="VHDL" width="40px" src="https://th.bing.com/th/id/R09dc8d5385176d8cc7f0dd5503794590?rik=tdWd5w18Q21ujw&riu=http%3a%2f%2flh3.googleusercontent.com%2f5V0ytDPiW7qiK-Mat-vjR0y9_9pT9v2HcawFy3i4jBJHi67SdMTbz-Yq3-c2FPGKBAk%3dw300&ehk=EcMkgkO35j4o2Ff2G2iuVJqdFUVeloREusbpKVyCmpM%3d&risl=&pid=ImgRaw" />
 <img align="left" alt="MARKDOWN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/markdown.svg" />
 
 <br />
