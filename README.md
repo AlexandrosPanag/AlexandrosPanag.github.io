@@ -23,7 +23,7 @@
 <img align="left" alt="CPLUSPLUS" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
 <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />
 <img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="40px" src="https://th.bing.com/th/id/R5eccdfd92ed880c8e9b6b90c8dc60919?rik=4r9MWpe8qBXt1g&pid=ImgRaw" />
 <img align="left" alt="JAVA" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" /> 
 <img align="left" alt="ARDUINO" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" />
 <img align="left" alt="MARKDOWN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/markdown.svg" />
