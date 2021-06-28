@@ -20,9 +20,9 @@
 ---
 
 ## _💡 My skills:_
-<img align="left" alt="CPLUSPLUS" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
-<img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />
-<img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sqlite.svg" />
+<img align="left" alt="CPLUSPLUS" width="40px" src="https://th.bing.com/th/id/OIP.m-FI7R8sTvB7s_K5vLd7igHaDX?pid=ImgDet&rs=1" />
+<img align="left" alt="C" width="40px" src="https://th.bing.com/th/id/R88eef2c4956cf1d9ffbb00a2059d9dd6?rik=5ZFdZ5LrTEaavw&pid=ImgRaw" />
+<img align="left" alt="SQL" width="40px" src="https://th.bing.com/th/id/R3ad7d4623b8bb182f4cccb51917577d1?rik=MJb6gaeaFsBbvg&riu=http%3a%2f%2fblog.desafiolatam.com%2fwp-content%2fuploads%2f2018%2f05%2fsql-logo.png&ehk=EsCGbvsX527BJ0ibETnigyOPOgKlFEpowIJV8A%2f2P8M%3d&risl=&pid=ImgRaw" />
 <img align="left" alt="HTML5" width="40px" src="https://th.bing.com/th/id/R5eccdfd92ed880c8e9b6b90c8dc60919?rik=4r9MWpe8qBXt1g&pid=ImgRaw" />
 <img align="left" alt="JAVA" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" /> 
 <img align="left" alt="ARDUINO" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" />
