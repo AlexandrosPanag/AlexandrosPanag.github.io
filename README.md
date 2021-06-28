@@ -5,7 +5,7 @@
 [![1](https://raw.githubusercontent.com/AlexandrosPanag/AlexandrosPanag.github.io/main/Banner.png)](https://github.com/AlexandrosPanag?tab=repositories)
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
 
-[<img src="https://now-playing-alexandrospanag.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/alexandrospanag)
+
 
 ---
 <h3 align="center">🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.</h3>
