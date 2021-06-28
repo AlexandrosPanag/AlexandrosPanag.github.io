@@ -67,6 +67,6 @@
 [GITHUB]:https://github.com/AlexandrosPanag
 
 
-<h1 Copyright © 2016 Riptyde4 /h1>
+###### Copyright © 2021 AlexandrosPanag
 
 
