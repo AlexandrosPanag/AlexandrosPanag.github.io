@@ -30,6 +30,7 @@
 <img align="left" alt="JAVA" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" /> 
 <img align="left" alt="ARDUINO" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" />
 <img align="left" alt="MARKDOWN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/markdown.svg" />
+<img align="left" alt="OCTAVE" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/octave.svg" />
 
 
 <br />
