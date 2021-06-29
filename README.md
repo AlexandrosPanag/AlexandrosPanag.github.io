@@ -16,6 +16,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexandrospanag&count_private=true&theme=merko&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrospanag&langs_count=5&theme=merko)]()
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrospanag&show_icons=true&locale=en&layout=merko" alt="alexandrospanag" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrospanag&show_icons=true&locale=en" alt="alexandrospanag" /></p>
 
 ---
 
