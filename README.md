@@ -33,6 +33,7 @@
 <img align="left" alt="ARDUINO" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" />
 <img align="left" alt="MARKDOWN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/markdown.svg" />
 <img align="left" alt="OCTAVE" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/octave.svg" />
+<img align="left" alt="WINDOWS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg" />
 
 
 <br />
