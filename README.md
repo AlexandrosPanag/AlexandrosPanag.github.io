@@ -34,6 +34,10 @@
 <img align="left" alt="MARKDOWN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/markdown.svg" />
 <img align="left" alt="OCTAVE" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/octave.svg" />
 <img align="left" alt="WINDOWS" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg" />
+<img align="left" alt="PYTHON" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
+
+
+
 
 
 <br />
@@ -48,6 +52,11 @@
 
 ---
 ## _📚 My Projects_
+
+
+
+
+
 
 <!-- BLOG-POST-LIST:START -->
 
