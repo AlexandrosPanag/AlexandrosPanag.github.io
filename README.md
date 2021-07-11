@@ -13,6 +13,7 @@
 <img align="left" alt="GITHUB" width="40x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexandrosPanag01&label=Profile%20views&color=129e00&style=plastic" alt="AlexandrosPanag" /> </p>
 ---
+<br />
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alexandrospanag&count_private=true&theme=merko&showicons=true)]()
 
