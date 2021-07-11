@@ -3,7 +3,7 @@
 
 
 [![1](https://raw.githubusercontent.com/AlexandrosPanag/AlexandrosPanag.github.io/main/Banner.png)](https://github.com/AlexandrosPanag?tab=repositories)
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://media1.giphy.com/avatars/Outcrowd/stpvc1zlUiXd.gif">
 
 
 
