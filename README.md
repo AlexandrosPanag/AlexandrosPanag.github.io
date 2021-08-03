@@ -46,23 +46,18 @@
 ---
 <br />
 
+## _My Media_
 
+
+[<img align="left" alt="LINKEDIN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://linkedin.com/in/codeSTACKr
 ---
 <br />
 
 
 ---
 ## _📚 My Projects_
-
-
-
-
-
-
-
 <!-- BLOG-POST-LIST:START -->
-
-
 
 - [My WINDOWS CMD Projects (ADVANCED)!](https://github.com/AlexandrosPanag/My_Windows_CMD_Projects)
 - [My Python Projects!](https://github.com/AlexandrosPanag/My_Python_Projects)
