@@ -53,7 +53,10 @@
 
 
 
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος-838a79218/
+
+
+
 ---
 <br />
 
