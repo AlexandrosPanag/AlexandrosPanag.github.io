@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-[![1](https://raw.githubusercontent.com/AlexandrosPanag/AlexandrosPanag.github.io/main/Banner.png)](https://github.com/AlexandrosPanag?tab=repositories)
+[![](https://raw.githubusercontent.com/AlexandrosPanag/AlexandrosPanag.github.io/main/Banner.png)](https://github.com/AlexandrosPanag?tab=repositories)
 <img align="right" alt="Coding" width="320" src="https://th.bing.com/th/id/R.b9a3fddd35e795caa795018990d92d8d?rik=FjBG5CB00nnq3A&pid=ImgRaw">
 
 
@@ -50,7 +50,10 @@
 
 
 [<img align="left" alt="LINKEDIN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://linkedin.com/in/codeSTACKr
+
+
+
+[linkedin]: https://linkedin.com/in/
 ---
 <br />
 
