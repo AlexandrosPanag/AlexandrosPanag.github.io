@@ -13,8 +13,6 @@
 
 
 [<img align="left" alt="GITHUB" width="40x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />] [github]
-
-
 [<img align="left" alt="LINKEDIN | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
