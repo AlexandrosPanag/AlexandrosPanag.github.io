@@ -10,8 +10,14 @@
 ---
 <h3 align="center">🎓 Student at University of Ioannina - Department of computer Inforormatics and Telecommunications.</h3>
 <img align="right" alt="Coding" width="320" src="https://media1.giphy.com/avatars/Outcrowd/stpvc1zlUiXd.gif">
+
+
 [<img align="left" alt="GITHUB" width="40x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />] [github]
+
+
 [<img align="left" alt="LINKEDIN | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexandrosPanag01&label=Profile%20views&color=129e00&style=plastic" alt="AlexandrosPanag" /> </p>
 
 
