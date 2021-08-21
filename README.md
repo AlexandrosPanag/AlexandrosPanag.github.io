@@ -13,7 +13,14 @@
 <img align="left" alt="GITHUB" width="40x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /> 
 [<img align="left" alt="LINKEDIN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexandrosPanag01&label=Profile%20views&color=129e00&style=plastic" alt="AlexandrosPanag" /> </p>
+
+
+
+
 [linkedin]: https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος-838a79218/
+
+
+
 ---
 <br />
 
